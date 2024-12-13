@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAL5PW8RTH3OIFFowVbFsPEK0pym0joTyI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>783278699886</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.thanhdung.goldstore</string>
+	<key>PROJECT_ID</key>
+	<string>gold-store-eced9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gold-store-eced9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:783278699886:ios:f4c7bad0a31ae2b1167d7f</string>
+</dict>
+</plist>
